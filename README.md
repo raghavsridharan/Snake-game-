@@ -4,8 +4,8 @@ A fun game where you have a control on a snake to eat the apple where it increas
 # Controls
 ↑ - Move Up  
 ↓ - Move down  
-→ - Move left  
-← - Move right  
+→ - Move right  
+← - Move left  
 
 # Module Used  
 Tkinter
